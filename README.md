@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-<br/>
+
 ## 🚀 Languages and Tools:
 
 <!-- <h3 align="left">Connect with me:</h3>
