@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 ## ⚡ Recent GitHub Activities
  <br/>
    <a href="https://github.com/sachiniamarasinghe97"><img alt="sachiniamarasinghe97 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sachiniamarasinghe97&custom_title=Sachini's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+  <br/><br/>
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 ## 📍 Connect with me
