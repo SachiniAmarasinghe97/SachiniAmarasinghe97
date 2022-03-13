@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachiniamarasinghe97&label=Profile%20views&color=0e75b6&style=flat" alt="sachiniamarasinghe97" /> </p>
 
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **"QuizUp" Educational Kids Application**
