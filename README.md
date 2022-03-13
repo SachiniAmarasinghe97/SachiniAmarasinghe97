@@ -46,11 +46,10 @@ Here are some ideas to get you started:
 
 ## 📊 My Github Stats
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachiniamarasinghe97&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sachiniamarasinghe97" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachiniamarasinghe97&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sachiniamarasinghe97" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachiniamarasinghe97&show_icons=true&theme=tokyonight&locale=en" alt="sachiniamarasinghe97" /></p><br/>
 
-## 🔥 Streak Stats
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachiniamarasinghe97&&theme=tokyonight" alt="sachiniamarasinghe97" /></p><br/>
 
