@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachiniamarasinghe97&&theme=tokyonight" alt="sachiniamarasinghe97" /></p><br/>
 
-## ⚡ Recent GitHub Activity
+## ⚡ Recent GitHub Activities
  <br/>
    <a href="https://github.com/sachiniamarasinghe97"><img alt="sachiniamarasinghe97 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sachiniamarasinghe97&custom_title=Sachini's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
