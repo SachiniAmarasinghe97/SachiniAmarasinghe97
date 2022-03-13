@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" width=200px alt="Unicorn" src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" />
+<p align="center"><img align="center" width=200px alt="Unicorn" src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" /></p>
 <h1 align="center">Hi 👋, I'm Sachini Amarasinghe</h1>
 <h3 align="center">I am pursuing my Bachelor of Science (Hons) in Information Technology degree at University of Moratuwa, Sri Lanka.</h3>
 
