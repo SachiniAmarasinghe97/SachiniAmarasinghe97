@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **SachiniAmarasinghe97/SachiniAmarasinghe97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -53,3 +52,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachiniamarasinghe97&show_icons=true&locale=en" alt="sachiniamarasinghe97" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachiniamarasinghe97&" alt="sachiniamarasinghe97" /></p>
+
+ <br/>
+   <a href="https://github.com/sachiniamarasinghe97"><img alt="sachiniamarasinghe97 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sachiniamarasinghe97&custom_title=Sachini's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
