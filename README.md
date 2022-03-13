@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **sbamarasinghe97@gmail.com**
 
-- ⚡ Fun fact **I listen to music often**
+- ⚡ Fun fact **I listen to music often** <br/>
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
