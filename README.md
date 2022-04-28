@@ -35,7 +35,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Angular**
 
 - 📫 How to reach me **sbamarasinghe97@gmail.com**
-<!-- - ⚡ Fun fact **I listen to music often** <br/> -->
+
+- 🏆 My Portfolio **https://sachiniamarasinghe.vercel.app/**
+
 - ⚡ Fun fact **I listen to music often** <br/>
 
 <!-- ### Blogs posts -->
