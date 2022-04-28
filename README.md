@@ -30,13 +30,13 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📝 I regularly write articles on [https://medium.com/@sbamarasinghe97](https://medium.com/@sbamarasinghe97)
+- 📝 I regularly write articles on [www.medium.com/@sbamarasinghe97](https://medium.com/@sbamarasinghe97)
 
 - 💬 Ask me about **Angular**
 
 - 📫 How to reach me **sbamarasinghe97@gmail.com**
 
-- 🏆 My Portfolio **https://sachiniamarasinghe.vercel.app/**
+- 🏆 My Portfolio **www.sachiniamarasinghe.vercel.app**
 
 - ⚡ Fun fact **I listen to music often** <br/>
 
