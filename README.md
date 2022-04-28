@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **sbamarasinghe97@gmail.com**
 
-- 🏆 My Portfolio **www.sachiniamarasinghe.vercel.app**
+- 🏆 My Portfolio **https://sachiniamarasinghe.vercel.app/**
 
 - ⚡ Fun fact **I listen to music often** <br/>
 
