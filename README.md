@@ -40,8 +40,6 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I listen to music often** <br/>
 
-<!-- - ⚡ Fun fact **I listen to music often** <br/> -->
-
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
