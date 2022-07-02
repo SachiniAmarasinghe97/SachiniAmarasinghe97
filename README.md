@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 <!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachiniamarasinghe97&show_icons=true&theme=tokyonight&locale=en" alt="sachiniamarasinghe97" /></p><br/> -->
 
-<p align="center">&nbsp;<img alt="Sachini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sachiniamarasinghe97&show_icons=true&count_private=true&theme=tokyonight&bg_color=0D1117" /></p>
+<p align="center">&nbsp;<img alt="Sachini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sachiniamarasinghe97&show_icons=true&count_private=true&theme=tokyonight" /></p>
 <br/>
 
 
