@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" /> -->
 
 
-## 🙋‍♂️ About 
+## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **"QuizUp" Educational Kids Application**
 
