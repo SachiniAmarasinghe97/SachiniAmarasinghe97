@@ -24,21 +24,18 @@ Here are some ideas to get you started:
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **"QuizUp" Educational Kids Application**
+- 🔭 I’m currently working on **"SwimX" Application**
 
-- 🌱 I’m currently learning **Flutter and NestJS**
+- 🌱 I’m currently learning AWS
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 📝 I regularly write articles on [www.medium.com/@sbamarasinghe97](https://medium.com/@sbamarasinghe97)
 
-- 💬 Ask me about **Angular**
-
 - 📫 How to reach me **sbamarasinghe97@gmail.com**
 
 - 🏆 My Portfolio **https://sachiniamarasinghe.vercel.app/**
 
-- ⚡ Fun fact **I listen to music often** <br/>
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
