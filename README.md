@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 <br/>
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachiniamarasinghe97&&theme=tokyonight" alt="sachiniamarasinghe97" /></p><br/>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachiniamarasinghe97&&theme=tokyonight" alt="sachiniamarasinghe97" /></p><br/> -->
 
 ## ⚡ Recent GitHub Activities
  <br/>
