@@ -24,14 +24,6 @@ Here are some ideas to get you started:
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **"SwimX" Application**
-
-- 🌱 I’m currently learning AWS
-
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 📝 I regularly write articles on [www.medium.com/@sbamarasinghe97](https://medium.com/@sbamarasinghe97)
-
 - 📫 How to reach me **sbamarasinghe97@gmail.com**
 
 - 🏆 My Portfolio **https://sachiniamarasinghe.vercel.app/**
