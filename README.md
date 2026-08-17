@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center"><img align="center" width=200px alt="Unicorn" src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" /></p>
-<h1 align="center">Hi 👋, I'm Sachini Amarasinghee</h1>
+<h1 align="center">Hi 👋, I'm Sachini Amarasinghe</h1>
 <h3 align="center">Full Stack Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachiniamarasinghe97&label=Profile%20views&color=0e75b6&style=flat" alt="sachiniamarasinghe97" /> </p>
